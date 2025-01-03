@@ -7,7 +7,7 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  pageTitle: string = 'Language Translation';
+  pageTitle: string = 'Language Translationn';
 
 
   adjustTextareaHeight({currentTarget : textarea}: any) {
